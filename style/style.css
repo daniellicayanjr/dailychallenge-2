@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1024px) {
+    body {
+      background-color: rgb(230, 179, 173);
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    body {
+      background-color: rgb(173, 180, 230);
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    body {
+      background-color: rgb(230, 173, 229);
+    }
+  }
